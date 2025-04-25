@@ -1,7 +1,4 @@
 # BDA-Assignment-2
-Here’s a clean and concise **README introduction** you can use for your GitHub repo to describe the Spark-based projects for classification, clustering, and recommendation:
-
----
 
 ## 🚀 Spark MLlib Projects using PySpark
 
@@ -44,8 +41,4 @@ This project builds a basic **Recommendation System** using collaborative filter
   ├── Classification.ipynb
   ├── Clustering.ipynb
   └── RecommendationEngine.ipynb
-```
 
----
-
-Let me know if you'd like this extended with setup instructions, data sources, or example outputs!
